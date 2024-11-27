@@ -1,0 +1,27 @@
+.canceled {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .canceledMessage {
+    color: #721c24;
+    font-weight: bold;
+  }
+  
+  .downloadBtn {
+    margin-left: 10px;
+    background-color: #007bff;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .downloadBtn:hover {
+    background-color: #0056b3;
+  }
+  
